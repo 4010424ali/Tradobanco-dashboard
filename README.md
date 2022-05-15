@@ -1,3 +1,11 @@
-# Vuexy - Vuejs, React, HTML & Laravel Admin Dashboard Template
+# Tradobanco dashboard 
 
-**Vuexy – Vuejs, React, HTML & Laravel Admin Dashboard Template** – is the most developer friendly & highly customizable Admin Dashboard Template based on Bootstrap 4, Bootstrap Vue & Reactstrap.
+##  Install package  
+`yarn install` or `npm install`
+
+## Install Vue CLI 
+`npm i -g @vue/cli`
+
+## Run Application
+`yarn serve` or `npm run serve`
+
